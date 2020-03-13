@@ -1,4 +1,4 @@
-# initializing empty envelops
+﻿# initializing empty envelops
 necessityEnvelop = 0  # NEC, необходимые траты
 freedomEnvelop = 0    # FFA, финансовая свобода
 educationEnvelop = 0  # EDU, образование
@@ -6,12 +6,12 @@ longTermEnvelop = 0   # LTSS, резерв и на большие покупки
 playEnvelop = 0       # PLAY, развлечения
 giveEnvelop = 0       # GIVE, подарки
 # initializing percent rate
-necRate = 0.55
+necRate = 0.54
 ffaRate = 0.1
 eduRate = 0.1
 ltssRate = 0.1
 playRate = 0.1
-giveRate = 0.05
+giveRate = 0.06
 # initializing expected income, expected necessity and other amounts
 expectedIncome = 1000
 # invitation, greetings etc.
